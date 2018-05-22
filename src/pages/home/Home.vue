@@ -6,10 +6,10 @@
 <script>
 import HomeHeader from './components/Header'
 export default{
-    name: 'Home',
-    components:{
-        HomeHeader
-    }
+  name: 'Home',
+  components: {
+    HomeHeader
+  }
 }
 </script>
 <style>
